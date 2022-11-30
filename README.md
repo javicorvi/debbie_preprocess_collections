@@ -8,6 +8,8 @@ This component is only used inside the debbie pipeline in order to reorganize th
 
 ## Actual Version 1.0.2, 2022-11-30
 
+Docker: javicorvi/debbie_preprocess_collections:1.0.2
+
 ## Built With
 
 * [Docker](https://www.docker.com/) - Docker Containers
